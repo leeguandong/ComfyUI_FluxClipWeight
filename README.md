@@ -10,7 +10,7 @@ https://openart.ai/workflows/leeguandong/cliptextencodewithweightcliptextencodef
 
 - 手动安装：
     1. `cd custom_nodes`
-    2. `git clone https://github.com/leeguandong/Comfyui_FluxClipWeight`
+    2. `git clone https://github.com/leeguandong/ComfyUI_FluxClipWeight`
     3. 重启 ComfyUI
 
 ## Stars
