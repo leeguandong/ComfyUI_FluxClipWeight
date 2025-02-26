@@ -15,7 +15,7 @@ https://openart.ai/workflows/leeguandong/cliptextencodewithweightcliptextencodef
 
 ## Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=leeguandong/Comfyui_FluxClipWeight&type=Date)](https://star-history.com/#leeguandong/Comfyui_FluxClipWeight&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=leeguandong/ComfyUI_FluxClipWeight&type=Date)](https://star-history.com/#leeguandong/ComfyUI_FluxClipWeight&Date)
 
 
 
