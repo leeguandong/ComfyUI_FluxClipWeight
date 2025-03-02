@@ -1,0 +1,14 @@
+[project]
+name = "fluxclipweight"
+description = "In Flux, the T5 and CLIP in the text branch are weighted separately to regulate the strength of text-side embeddings."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_FluxClipWeight"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_FluxClipWeight"
+Icon = ""
